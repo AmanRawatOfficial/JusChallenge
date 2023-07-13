@@ -1,3 +1,6 @@
+# Demo: https://scratch-clone-amaze.netlify.app
+some parts of app do not work
+
 # Scratch starter project
 
 To get started:
